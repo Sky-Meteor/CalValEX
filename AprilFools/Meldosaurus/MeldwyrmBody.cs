@@ -7,7 +7,7 @@ using Terraria.ModLoader;
 
 namespace CalValEX.AprilFools.Meldosaurus
 {
-    public class MeldwyrmBody : ModNPC
+    public class MeldWyrmBody : ModNPC
 	{
 		[JITWhenModsEnabled("CalamityMod")]
 		public override void SetStaticDefaults()
